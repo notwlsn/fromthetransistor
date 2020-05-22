@@ -5,8 +5,8 @@ This is a personal version of GeoHot's FromTheTransistor course, with the projec
 #### Section 1: Intro: Cheating our way past the transistor -- 0.5 weeks
 
 1. Buy a basic board
-  [[1]](https://www.adafruit.com/product/451 "https://www.adafruit.com/product/451")
-  [[2]](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=593&PartNo=4 "https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=593&PartNo=4") (userman and CDROM)
+  [[1]](https://www.adafruit.com/product/451 "userman")
+  [[2]](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=593&PartNo=4 "CDROM")
 2. Learn Verilog
   [[1]](http://www.asic-world.com/verilog/veritut.html "http://www.asic-world.com/verilog/veritut.html")
   [[2]](http://www.altera.com/education/training/courses/OHDL1120 "http://www.altera.com/education/training/courses/OHDL1120")
